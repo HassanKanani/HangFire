@@ -1,0 +1,15 @@
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\bin\Debug\net7.0\p1.exe
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\bin\Debug\net7.0\p1.deps.json
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\bin\Debug\net7.0\p1.runtimeconfig.json
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\bin\Debug\net7.0\p1.dll
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\bin\Debug\net7.0\p1.pdb
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.csproj.AssemblyReference.cache
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.AssemblyInfoInputs.cache
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.AssemblyInfo.cs
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.csproj.CoreCompileInputs.cache
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.dll
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\refint\p1.dll
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.pdb
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\p1.genruntimeconfig.cache
+C:\Users\Kanani-Dev\Documents\vscode\taturial C#\p1\obj\Debug\net7.0\ref\p1.dll
